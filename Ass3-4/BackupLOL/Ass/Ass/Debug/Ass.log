@@ -1,0 +1,8 @@
+﻿  DynamicArray.c
+d:\visual studio projects\oob\ass3-4\ass\ass\dynamicarray.c(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\visual studio projects\oob\ass3-4\ass\ass\dynamicarray.c(69): warning C4033: 'd_find' must return a value
+d:\visual studio projects\oob\ass3-4\ass\ass\dynamicarray.c(72): warning C4033: 'd_find' must return a value
+  UI.c
+  Generating Code...
+d:\visual studio projects\oob\ass3-4\ass\ass\dynamicarray.c(80): warning C4715: 'd_find': not all control paths return a value
+  Ass.vcxproj -> D:\Visual Studio Projects\OOB\Ass3-4\Ass\Debug\Ass.exe

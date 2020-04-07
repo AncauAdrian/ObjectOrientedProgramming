@@ -1,0 +1,3 @@
+﻿  Undo.c
+d:\visual studio projects\oob\ass3-4\ass\ass\undo.c(102): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Ass.vcxproj -> D:\Visual Studio Projects\OOB\Ass3-4\Ass\Debug\Ass.exe

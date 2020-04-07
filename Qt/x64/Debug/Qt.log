@@ -1,0 +1,25 @@
+﻿  Moc'ing Qt.h...
+  main.cpp
+  Qt.cpp
+  moc_Qt.cpp
+D:\Visual Studio Projects\OOB\Qt\Qt.h(6): error C2869: 'Qt': has already been defined to be a namespace (compiling source file Qt.cpp)
+D:\Visual Studio Projects\OOB\Qt\Qt.h(6): error C2869: 'Qt': has already been defined to be a namespace (compiling source file GeneratedFiles\Debug\moc_Qt.cpp)
+  D:\Qt\5.12.3\msvc2017_64\include\QtCore\qstring.h(1861): note: see declaration of 'Qt' (compiling source file Qt.cpp)
+  D:\Qt\5.12.3\msvc2017_64\include\QtCore\qstring.h(1861): note: see declaration of 'Qt' (compiling source file GeneratedFiles\Debug\moc_Qt.cpp)
+D:\Visual Studio Projects\OOB\Qt\Qt.cpp(3): error C2039: 'Qt': is not a member of 'Qt'
+  D:\Qt\5.12.3\msvc2017_64\include\QtCore\qstring.h(1861): note: see declaration of 'Qt'
+D:\Visual Studio Projects\OOB\Qt\Qt.cpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Visual Studio Projects\OOB\Qt\Qt.cpp(4): error C2365: 'Qt': redefinition; previous definition was 'namespace'
+  D:\Qt\5.12.3\msvc2017_64\include\QtCore\qstring.h(1861): note: see declaration of 'Qt'
+D:\Visual Studio Projects\OOB\Qt\Qt.cpp(5): error C2550: 'Qt': constructor initializer lists are only allowed on constructor definitions
+D:\Visual Studio Projects\OOB\Qt\Qt.cpp(6): error C2065: 'ui': undeclared identifier
+D:\Visual Studio Projects\OOB\Qt\GeneratedFiles\Debug\moc_Qt.cpp(58): warning C4273: 'staticQtMetaObject': inconsistent dll linkage
+  D:\Qt\5.12.3\msvc2017_64\include\QtCore\qobject.h(435): note: see previous definition of 'protected: static QMetaObject const QObject::staticQtMetaObject' (compiling source file GeneratedFiles\Debug\moc_Qt.cpp)
+D:\Visual Studio Projects\OOB\Qt\Qt.cpp(6): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+D:\Visual Studio Projects\OOB\Qt\GeneratedFiles\Debug\moc_Qt.cpp(58): error C2491: 'QObject::staticQtMetaObject': definition of dllimport static data member not allowed
+D:\Visual Studio Projects\OOB\Qt\Qt.h(6): error C2869: 'Qt': has already been defined to be a namespace (compiling source file main.cpp)
+  D:\Qt\5.12.3\msvc2017_64\include\QtCore\qstring.h(1861): note: see declaration of 'Qt' (compiling source file main.cpp)
+D:\Visual Studio Projects\OOB\Qt\main.cpp(7): error C2882: 'Qt': illegal use of namespace identifier in expression
+D:\Visual Studio Projects\OOB\Qt\main.cpp(7): error C2146: syntax error: missing ';' before identifier 'w'
+D:\Visual Studio Projects\OOB\Qt\main.cpp(7): error C2065: 'w': undeclared identifier
+D:\Visual Studio Projects\OOB\Qt\main.cpp(8): error C2065: 'w': undeclared identifier

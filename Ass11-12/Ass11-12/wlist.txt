@@ -1,0 +1,3 @@
+Types,Adrian,12:7,11,https://www.youtube.com/watch?v=dUUap90oiPA
+Pointers,Dan,5:35,121,https://www.youtube.com/watch?v=dUUap90oiPA
+Scopes,Alex,12:5,123,https://www.youtube.com/watch?v=dUUap90oiPA

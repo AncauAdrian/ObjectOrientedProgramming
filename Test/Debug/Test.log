@@ -1,0 +1,33 @@
+﻿  Source.cpp
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(34,1): warning C4346:  'iterator': dependent name is not a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(34,1): message :  prefix with 'typename' to indicate a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(45): message :  see reference to class template instantiation 'ToDo<t>' being compiled
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(34,1): error C2061:  syntax error: identifier 'iterator'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(35,1): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(39,1): warning C4346:  'iterator': dependent name is not a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(39,1): message :  prefix with 'typename' to indicate a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(39,1): error C2061:  syntax error: identifier 'iterator'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(40,1): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(54,18): error C2248:  'Activity::act': cannot access private member declared in class 'Activity'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(9): message :  see declaration of 'Activity::act'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(7): message :  see declaration of 'Activity'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(54,27): error C2248:  'Activity::time': cannot access private member declared in class 'Activity'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(9): message :  see declaration of 'Activity::time'
+  ToDoList.cpp
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(7): message :  see declaration of 'Activity'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(34,1): warning C4346:  'iterator': dependent name is not a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(34,1): message :  prefix with 'typename' to indicate a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(45): message :  see reference to class template instantiation 'ToDo<t>' being compiled
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(34,1): error C2061:  syntax error: identifier 'iterator'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(35,1): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(39,1): warning C4346:  'iterator': dependent name is not a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(39,1): message :  prefix with 'typename' to indicate a type
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(39,1): error C2061:  syntax error: identifier 'iterator'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(40,1): error C2334:  unexpected token(s) preceding '{'; skipping apparent function body
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(54,18): error C2248:  'Activity::act': cannot access private member declared in class 'Activity'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(9): message :  see declaration of 'Activity::act'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(7): message :  see declaration of 'Activity'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(54,27): error C2248:  'Activity::time': cannot access private member declared in class 'Activity'
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(9): message :  see declaration of 'Activity::time'
+  Generating Code...
+D:\Visual Studio Projects\OOB\Test\ToDoList.h(7): message :  see declaration of 'Activity'

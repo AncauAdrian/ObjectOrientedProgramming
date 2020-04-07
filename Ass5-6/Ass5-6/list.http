@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Playlist</title>
+	</head>
+	<body>
+		<table border="1">
+		<tr>
+			<td>Title</td>
+			<td>Author</td>
+			<td>Duration</td>
+			<td>Likes</td>
+			<td>Link</td>
+		</tr>
+	</body>
+</html>
